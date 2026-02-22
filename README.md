@@ -1,4 +1,4 @@
-<img src="[image](https://ibb.co.com/RpH55tXH)" width="1200" alt="banner">
+<img src="https://i.ibb.co.com/RpH55tXH/banner.png" width="100%" alt="banner">
 
 <h1 align="center">Hi! I'm Sabrina Atha Shania!</h1>
 
