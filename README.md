@@ -1,4 +1,4 @@
-<img src="URL_GAMBAR_KAMU" width="1200" height="400" alt="banner">
+<img src="https://ibb.co.com/RpH55tXH" width="1200" height="400" alt="banner">
 
 <h1 align="center">Hi! I'm Sabrina Atha Shania!</h1>
 
